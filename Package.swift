@@ -21,7 +21,7 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
             .binaryTarget(
                 name: "ActualSPMPackage",
-                url: "https://drive.google.com/file/d/1b1xDplDHFWapjVUxU5nYsr9EvoNMLzcE/view?usp=sharing",
+                url: "https://drive.google.com/file/d/1b1xDplDHFWapjVUxU5nYsr9EvoNMLzcE/view?usp=sharing.zip",
                 checksum: "087f89fb18827f2a5ce7b6319725508e469eea628f3c27f0ce32fb76d5e748e4")
         ]
 )
