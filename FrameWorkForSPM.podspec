@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
     s.name         = "FrameWorkForSPM"
-    s.version      = "6.0.0"
+    s.version      = "7.0.0"
     s.summary      = "Dummy is the test repo for xcframwork"
     s.homepage     = "https://github.com/karthik-zeotap/ios-lib-xcf"
     s.author       = { "karthik-zeotap" => "karthik.datta@zeotap.com" }
