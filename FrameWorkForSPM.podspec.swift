@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
     s.license = "MIT"
     s.author             = { "karthik-zeotap" => "karthik.datta@zeotap.com" }
     s.source       = { :git => "https://github.com/karthik-zeotap/ios-lib-xcf", :tag => "v#{s.version}" }
-    s.vendored_frameworks = "Dummy.xcframework"
+    s.vendored_frameworks = "FrameWorkForSPM.xcframework"
     s.platform = :ios
     s.swift_version = "5.7"
     s.ios.deployment_target  = '15.5'
