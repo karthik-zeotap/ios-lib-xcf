@@ -1,0 +1,11 @@
+framework module FrameWorkForSPM {
+  umbrella header "FrameWorkForSPM.h"
+
+  export *
+  module * { export * }
+}
+
+module FrameWorkForSPM.Swift {
+  header "FrameWorkForSPM-Swift.h"
+  requires objc
+}
